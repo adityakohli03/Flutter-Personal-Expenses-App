@@ -1,10 +1,13 @@
 # expenses_app
 
-A new Flutter project.
+This application helps us to keep a record of once's personal expenditure at a particular day, date and time. Its has user-friendly UI/UX design. Further its show the expenses in the form of bar chart. As this application is made using <b>flutter and dart</b> language its works on both Android as well as IOS
 
-## Getting Started
+## Home Page
 
-This project is a starting point for a Flutter application.
+
+
+## Resources
+
 
 A few resources to get you started if this is your first Flutter project:
 
